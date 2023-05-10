@@ -1,0 +1,11 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#detective
+{
+    color: yellow;
+    font-size: medium;
+}
